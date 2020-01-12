@@ -1,2 +1,3 @@
 Dec-12 Food 1000
 Dec-13 Clothes 1200
+Dec-14 Shopping 500
