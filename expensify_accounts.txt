@@ -1,0 +1,2 @@
+Cash 1000
+SavingsAccount 20000
