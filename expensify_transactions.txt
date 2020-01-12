@@ -1,3 +1,4 @@
 Dec-12 Breakfast 1000 Food
 Dec-13 Clothes 1200 Shopping
 Dec-14 Furniture 500 Shopping
+Dec-15 Decorations 100 Shopping
