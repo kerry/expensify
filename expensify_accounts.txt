@@ -1,2 +1,3 @@
 Cash 1000
 SavingsAccount 20000
+CurrentAccount 10000
