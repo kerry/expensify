@@ -1,2 +1,2 @@
 Currency INR
-Decimal 2
+Decimal 1 
